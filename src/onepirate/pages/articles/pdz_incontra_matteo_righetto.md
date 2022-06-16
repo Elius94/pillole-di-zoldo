@@ -1,7 +1,7 @@
 ## PdZ incontra: Matteo Righetto
 
 <p align="center">
-    <img width="50%" src="./IMG_0169.JPG"/>
+    <img width="50%" src="../IMG_0169.JPG"/>
 </p>
 
 >Pillole di Zoldo incontra è dialogare con un ospite in una silenziosa radura. E’ un momento d’incontro, di confronto, col passato della montagna e con il suo futuro. E’ un’occasione per condividere punti di vista, prospettive, suoni ed idee.
@@ -10,7 +10,7 @@
 ### Location
 
 <p align="center">
-    <img width="50%" src="./IMG_4030.JPG"/>
+    <img width="50%" src="../IMG_4030.JPG"/>
 </p>
 
 La Val di Zoldo è rimasta fuori dal greto del torrente del turismo di massa. Questo ne ha preservato quasi intatto il legame con la tradizione. È un mugo solitario tra le rocce di un ghiaione, il gorgoglìo di un ruscello nel cuore del bosco.
@@ -37,7 +37,7 @@ Per il Teatro Stabile del Veneto ha scritto Da qui alla Luna, portato in scena d
 Nel 2019 ha ricevuto il Premio Internazionale Dolomiti UNESCO.
 
 <p align="center">
-    <img width="50%" src="./videorighetto.jpg" href="https://www.youtube.com/watch?v=kWWyrJryFl8&t=18s"/>
+    <img width="50%" src="../videorighetto.jpg" href="https://www.youtube.com/watch?v=kWWyrJryFl8&t=18s"/>
 </p>
 
 

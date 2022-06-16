@@ -1,7 +1,7 @@
 ## Artisti del Silenzio
 
 <p align="center">
-    <img width="50%" src="./EL_05356.jpg"/>
+    <img width="50%" src="../EL_05356.jpg"/>
 </p>
 
 > L’artista è colui che attinge alla creatività per realizzare. Realizzare un dipinto, un libro, una statua. L’artista fantastica nell’universo delle cose che non esistono ancora, lo esplora in lungo e in largo. In questo ambiente, che in matematica sarebbe definito “spazio di dimensione infinita”, l’astronauta può afferrare un elemento e dargli forma. Può addirittura trovare se stesso. 

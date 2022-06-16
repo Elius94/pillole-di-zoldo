@@ -32,7 +32,7 @@ const number = {
 };
 
 function ProductCTA() {
-  const [position/*, setPosition*/] = React.useState<any>([44.46917165365001, 11.40598871506287]);
+  const [position/*, setPosition*/] = React.useState<any>([46.360634, 12.117101]);
 
   return (
     <Container component="section" sx={{ mt: 10, display: "flex" }}>
@@ -52,26 +52,31 @@ function ProductCTA() {
               sx={{ maxWidth: 400 }}
             >
               <Typography variant="h2" component="h2" gutterBottom>
-                Come ricevo
+                Come raggiungerci
               </Typography>
               <Box
                 component="div" sx={item}>
                 <Box component="div" sx={number}>1.</Box>
                 <Typography variant="h5">
-                  Ricevo presso lo Studio Milò, in via delle Rimembranze 9, San Lazzaro (BO),
-                  il <b>Martedì</b> e il <b>Mercoledì</b> dalle <b>7:30</b> alle <b>12:30</b>.
+                  Passando per Longarone, tramite la SP251.
                 </Typography>
               </Box>
               <Box component="div" sx={item}>
                 <Box component="div" sx={number}>2.</Box>
                 <Typography variant="h5">
-                  Seduta remota tramite <b>Google Meet</b>.
+                  Dall'agordino tramite il passo Duran (SP347).
                 </Typography>
               </Box>
               <Box component="div" sx={item}>
                 <Box component="div" sx={number}>3.</Box>
                 <Typography variant="h5">
-                  Direttamente a <b>domicilio</b>.<Tooltip title="Solo per i corsi di massaggio infantile" enterTouchDelay={0}><Box component="a" sx={number}>*</Box></Tooltip>
+                  Dal Cadore tramite il passo Cibiana (SP347).
+                </Typography>
+              </Box>
+              <Box component="div" sx={item}>
+                <Box component="div" sx={number}>4.</Box>
+                <Typography variant="h5">
+                  Dalla val Fiorentina tramite il passo Staulanza (SP251).
                 </Typography>
               </Box>
             </Box>
@@ -107,16 +112,11 @@ function ProductCTA() {
               maxWidth: 600,
             }}
           >
-            <MapContainer center={position} zoom={15} style={{height: "100%"}}>
+            <MapContainer center={position} zoom={12} style={{height: "100%"}}>
               <TileLayer
                 attribution='&amp;copy <a href="https://www.thunderforest.com/">Thunderforest</a>'
-                url="https://tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey=43d136d38a064b11925be75e32fc86fa"
+                url="https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=43d136d38a064b11925be75e32fc86fa"
               />
-              <Marker position={position}>
-                <Popup>
-                  via delle Rimembranze 9, San Lazzaro (BO).
-                </Popup>
-              </Marker>
             </MapContainer>
           </Box>
         </Grid>

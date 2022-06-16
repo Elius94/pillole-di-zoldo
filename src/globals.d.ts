@@ -2,3 +2,4 @@
 declare module "*.md";
 declare module 'react-iubenda-policy';
 declare module 'mui-image';
+declare module 'lodash';

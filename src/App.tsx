@@ -14,7 +14,7 @@ function App() {
       <ParallaxProvider>
         <BrowserRouter>
           <Routes>
-            <Route path="/contattami" element={<Contact />} />
+            <Route path="/contattaci" element={<Contact />} />
             <Route path="/articoli/*" element={<Articles />} />
             <Route path="/index.html" element={<Home />} />
             <Route path="/" element={<Home />} />

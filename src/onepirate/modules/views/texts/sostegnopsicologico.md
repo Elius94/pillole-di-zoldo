@@ -1,1 +1,0 @@
-È un tipo di intervento rivolto a tutti coloro che vivono un momento di crisi personale o di disagio in differenti ambiti di vita. Scopo del sostegno psicologico è quello di sostenere o migliorare la qualità di vita dell’individuo, sviluppando e potenziando i punti di forza e le risorse personali.

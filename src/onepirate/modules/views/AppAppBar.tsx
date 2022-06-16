@@ -27,10 +27,10 @@ function AppAppBar() {
             to="/"
             sx={{ fontSize: isMobile ? 20 : 24 }}
           >
-            {"Martina Muzzi Psicologa"}
+            {"Pillole di Zoldo"}
           </Link>
           <Box sx={{ flex: 1, display: "flex", justifyContent: "flex-end" }}>
-            {location.pathname === "/contattami/" ? (
+            {location.pathname === "/contattaci/" ? (
               <Link
                 variant="h6"
                 underline="none"
@@ -45,10 +45,10 @@ function AppAppBar() {
                 variant="h6"
                 underline="none"
                 component={RouterLink}
-                to="/contattami/"
+                to="/contattaci/"
                 sx={{ ...rightLink, color: "secondary.main" }}
               >
-                {"Contattami"}
+                {"Contattaci"}
               </Link>
             )}
           </Box>

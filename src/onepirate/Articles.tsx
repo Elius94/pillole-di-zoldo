@@ -10,7 +10,8 @@ function Articles() {
         <React.Fragment>
             <Routes>
                 <Route path={`privacy`} element={<Privacy />} />
-                <Route path={`benefici-massaggio-infantile`} element={<Article article={"articolo_massaggi"} />} />
+                <Route path={`artisti-del-silenzio`} element={<Article article={"artisti_del_silenzio"} />} />
+                <Route path={`pdz-incontra-matteo-righetto`} element={<Article article={"pdz_incontra_matteo_righetto"} />} />
                 <Route path={`*`} element={<NotFound404 />} />
             </Routes>
         </React.Fragment>

@@ -1,14 +1,14 @@
 {
-    "title": "Martina Muzzi · Psicologa a Bologna",
-    "description": "Psicologa a Bologna specializzata in psicologia della famiglia e dei genitori, con particolare attenzione per la fase perinatale e per la fase postnatale.",
-    "keywords": "psicologa bologna, massaggi infantili bologna, psicologa, psicologia, psicologia della famiglia, psicologia dei genitori, psicologia perinatale, sostegno genitoriale, psicologia bologna, consulenza psicologica",
-    "author": "Martina Muzzi",
+    "title": "Pillole di Zoldo",
+    "description": "Esperienze in movimento attorno a Zoldo.",
+    "keywords": "val di zoldo, zoldo, dolomiti, belluno, montagne italiane, val zoldana, monte civetta, monte pelmo, matteo righetto, giovanni bez, lucio radaelli, hiking, trekking, alta via 1",
+    "author": "Elia Lazzari",
     "openGraph": {
         "url": "https://www.martinamuzzipsicologa.it/",
-        "title": "Martina Muzzi · Psicologa a Bologna",
-        "description": "Psicologa a Bologna specializzata in psicologia della famiglia e dei genitori, con particolare attenzione per la fase perinatale e per la fase postnatale.",
+        "title": "Pillole di Zoldo",
+        "description": "Esperienze in movimento attorno a Zoldo.",
         "image": "https://www.martinamuzzipsicologa.it/DSC_0655.JPG",
-        "site_name": "Martina Muzzi · Psicologa",
+        "site_name": "Pillole di Zoldo",
         "type": "website",
         "locale": "it_IT"
     },
@@ -16,8 +16,8 @@
         "image": "https://www.martinamuzzipsicologa.it/DSC_0655.JPG",
         "url": "https://www.martinamuzzipsicologa.it/",
         "card": "summary_large_image",
-        "title": "Martina Muzzi · Psicologa a Bologna",
-        "description": "Psicologa a Bologna specializzata in psicologia della famiglia e dei genitori, con particolare attenzione per la fase perinatale e per la fase postnatale."
+        "title": "Pillole di Zoldo",
+        "description": "Esperienze in movimento attorno a Zoldo."
     },
     "favicon": "icons/favicon.ico",
     "icons": [{

@@ -1,0 +1,1 @@
+> I fotografi si nutrono di silenzio, sono sfuggenti. Si appostano nel silenzio e danno vita ad arte silenziosa. Ma che può essere tanto forte da fare rumore. Nel silenzio della montagna i pochi suoni risuonano più forti e nitidi che altrove. Come i loro scatti.

@@ -4,14 +4,16 @@ import Grid from "@mui/material/Grid";
 import Link from "@mui/material/Link";
 import Container from "@mui/material/Container";
 import Typography from "../components/Typography";
-import { Gavel, LinkedIn } from "@mui/icons-material";
+import { Instagram, Facebook, YouTube } from "@mui/icons-material";
 import Iubenda from 'react-iubenda-policy'
 
 function Copyright() {
   return (
     <React.Fragment>
-      {"© Martina Muzzi "}
+      {"© Lucio Radaelli, Giovanni Bez "}
       {new Date().getFullYear()}
+      <br />
+      {"Made with love by Elia Lazzari"}
     </React.Fragment>
   );
 }
@@ -39,27 +41,25 @@ export default function AppFooter() {
     >
       <Container sx={{ my: 8, display: "flex" }}>
         <Grid container spacing={5}>
-          <Grid item xs={12} sm={4} md={3}>
+          <Grid item xs={12} sm={6} md={4}>
             <Grid
               container
               direction="column"
               justifyContent="flex-end"
               spacing={2}
-              sx={{ height: 120 }}
             >
-              <Grid item sx={{ display: "flex" }}>
-                <Box component="a" href="https://it.linkedin.com/in/martina-muzzi-a80a94227" sx={iconStyle}>
-                  <LinkedIn color="action" />
+              <Grid item xs={12} sx={{ display: "flex" }}>
+                <Box component="a" href="https://www.instagram.com/pilloledizoldo/" sx={iconStyle}>
+                  <Instagram color="action" />
                 </Box>
-                <Box
-                  component="a"
-                  href="https://www.ordinepsicologier.it/it/albo/10319a-martina-muzzi"
-                  sx={iconStyle}
-                >
-                  <Gavel color="action" />
+                <Box component="a" href="https://www.facebook.com/pilloledizoldo/" sx={iconStyle}>
+                  <Facebook color="action" />
+                </Box>
+                <Box component="a" href="https://l.instagram.com/?u=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCZm2Eeq2rBgkmwwVccYl_Vw%2Ffeatured&e=ATNLywuEzybBvDoqlPbcO72x3oN2B1hDLJF_Ld67ZFxkit3CuDx-r7YHbFU9IhkaiZ84m_758VHs2KRbZN0RBw&s=1" sx={iconStyle}>
+                  <YouTube color="action" />
                 </Box>
               </Grid>
-              <Grid item>
+              <Grid item xs={12}>
                 <Copyright />
               </Grid>
             </Grid>
@@ -84,36 +84,27 @@ export default function AppFooter() {
               </Box>
             </Box>
           </Grid>
-          <Grid item>
+          <Grid item xs={12} sm={4} md={6}>
             <Typography variant="h6" marked="left" gutterBottom>
               Riferimenti
             </Typography>
             <Typography variant="subtitle1" color="textSecondary">
-              Studio Milò, in via delle Rimembranze 9, San Lazzaro (BO)
-            </Typography>
-            <Typography variant="subtitle1" color="textSecondary">
-              P.IVA 04018341208
+              Val di Zoldo - Dolomiti Bellunesi, Italia
             </Typography>
             <Typography variant="subtitle1" color="textSecondary">
               {"Tel. "} 
-              <Link href="tel:+393347156936">
-                3347156936
+              <Link href="tel:+393488184745">
+              +39 3488184745
               </Link>
             </Typography>
             <Typography variant="subtitle1" color="textSecondary">
               {"Email: "}
-              <Link href="mailto:info@martinamuzzipsicologa.it">
-                info@martinamuzzipsicologa.it
-              </Link>
-            </Typography>
-            <Typography variant="subtitle1" color="textSecondary">
-              Iscritta all'
-              <Link href="https://www.ordinepsicologier.it/it/albo/10319a-martina-muzzi">
-                Ordine degli Psicologi
+              <Link href="mailto:pilloledizoldo@gmail.com">
+              pilloledizoldo@gmail.com
               </Link>
             </Typography>
           </Grid>
-          <Grid item>
+          <Grid item xs={12}>
             <Typography variant="caption">
               {"Icons made by "}
               <Link

@@ -20,10 +20,10 @@ function Contact() {
       <AppForm>
         <React.Fragment>
           <Typography variant="h3" gutterBottom marked="center" align="center">
-            Desideri contattarmi?
+            Desideri contattarci?
           </Typography>
           <Typography variant="body2" align="center">
-            Per quasiasi informazione puoi contattarmi a questi indirizzi.
+            Per quasiasi informazione puoi contattarci a questi indirizzi.
           </Typography>
           <br />
         </React.Fragment>
@@ -34,24 +34,24 @@ function Contact() {
           }}
         >
           <ListItem>
-            <ListItemButton component="a" href="mailto:info@martinamuzzipsicologa.it">
+            <ListItemButton component="a" href="mailto:pilloledizoldo@gmail.com">
               <ListItemAvatar>
                 <Avatar>
                   <EmailRounded />
                 </Avatar>
               </ListItemAvatar>
-              <ListItemText primary="Scrivimi una Email" secondary="info@martinamuzzipsicologa.it" />
+              <ListItemText primary="Scrivimi una Email" secondary="pilloledizoldo@gmail.com" />
             </ListItemButton>
           </ListItem>
           <Divider variant="inset" component="li" />
           <ListItem>
-            <ListItemButton component="a" href="tel:+393347156936">
+            <ListItemButton component="a" href="tel:+393488184745">
               <ListItemAvatar>
                 <Avatar>
                   <Call />
                 </Avatar>
               </ListItemAvatar>
-              <ListItemText primary="Telefonami" secondary="+39 3347156936" />
+              <ListItemText primary="Telefonami" secondary="+39 3488184745" />
             </ListItemButton>
           </ListItem>
         </List>

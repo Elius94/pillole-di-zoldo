@@ -12,6 +12,7 @@
         "clsx": "^1.1.1",
         "eslint-config-react-app": "^7.0.1",
         "leaflet": "^1.8.0",
+        "lodash": "^4.17.21",
         "mui-image": "^1.0.4",
         "react": "^18.1.0",
         "react-device-detect": "^2.2.2",
@@ -42,6 +43,7 @@
     ],
     "devDependencies": {
         "@types/leaflet": "^1.7.9",
+        "@types/lodash": "^4.14.182",
         "@types/react-dom": "^18.0.3",
         "@types/react-router-dom": "^5.1.5"
     },

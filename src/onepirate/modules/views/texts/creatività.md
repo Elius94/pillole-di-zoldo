@@ -1,0 +1,1 @@
+> Prendiamo spunto dai luoghi che viviamo ogni volta che usciamo di casa. Ci immergiamo nelle mille storie di un tabià antico, oppure nelle parole di chi troviamo per strada o su un sentiero. Collezioniamo atmosfere, suoni, colori, per cercare di trasporli poi nei nostri scatti, video, eventi. 

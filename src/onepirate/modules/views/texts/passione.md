@@ -1,0 +1,1 @@
+> Ciò che realizziamo è un concentrato di energia e passione per valorizzare al meglio ogni anno diversi temi e luoghi della Val di Zoldo. La nostra missione è poter dare una narrazione diversa della montagna, rivolta ai giovani in modo da poter creare un ponte tra il passato e il futuro.

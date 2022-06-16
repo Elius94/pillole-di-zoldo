@@ -4,7 +4,7 @@ import Typography from "../components/Typography";
 import ProductHeroLayout from "./ProductHeroLayout";
 import { Link as RouterLink } from "react-router-dom";
 
-const backgroundImage = "./EL_03344.jpg";
+const backgroundImage = "./DSC08781.jpg";
 
 export default function ProductHero() {
   return (
@@ -18,7 +18,7 @@ export default function ProductHero() {
         alt="increase priority"
       />
       <Typography color="inherit" align="center" component="h1" variant="h2" marked="center">
-        Dott.ssa Martina Muzzi
+        Pillole di Zoldo
       </Typography>
       <Typography
         color="inherit"
@@ -27,21 +27,18 @@ export default function ProductHero() {
         component="h2"
         sx={{ mb: 4, mt: { sx: 4, sm: 10 } }}
       >
-        <b>Psicologa</b> a Bologna specializzata in psicologia genitoriale e familiare.
+        <b>Esperienze in movimento</b> attorno a Zoldo.
       </Typography>
       <Button
         color="secondary"
         variant="contained"
         size="large"
         component={RouterLink}
-        to="/contattami/"
+        to="/contattaci/"
         sx={{ minWidth: 200 }}
       >
-        Contattami
+        Per saperne di più
       </Button>
-      <Typography variant="body2" color="inherit" sx={{ mt: 2 }}>
-        Scopri le mie offerte
-      </Typography>
     </ProductHeroLayout>
   );
 }

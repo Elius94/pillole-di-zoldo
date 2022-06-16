@@ -1,0 +1,1 @@
+> Siamo profondamente legati al tema dell’ecologia. Cerchiamo in ogni progetto che sviluppiamo un’impostazione sostenibile nella realizzazione e nella selezione dei temi cercando di essere sempre più consapevoli e informati sulle problematiche ambientali.

@@ -18,7 +18,7 @@ function ProductSmokingHero() {
     >
       <Button
         component={RouterLink}
-        to="/contattami/"
+        to="/contattaci/"
         sx={{
           border: "4px solid currentColor",
           borderRadius: 0,
@@ -28,11 +28,11 @@ function ProductSmokingHero() {
         }}
       >
         <Typography variant="h4" component="span">
-          Qualche domanda? Pensi di aver bisogno di aiuto?
+          Qualche domanda, proposta o richiesta?
         </Typography>
       </Button>
       <Typography variant="subtitle1" sx={{ my: 3 }}>
-        Contattami ed cercheremo la soluzione per te.
+        Contattaci per maggiori informazioni.
       </Typography>
       <Box
         component="img"

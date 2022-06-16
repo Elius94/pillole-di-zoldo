@@ -1,0 +1,1 @@
+> Ci piace pensare a Pillole di Zoldo come un luogo dove poter dialogare e creare insieme progetti artistici per il territorio, condividendo con le persone le nostre idee, sensazioni, intuizioni. 

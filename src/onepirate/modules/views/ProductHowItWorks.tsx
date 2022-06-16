@@ -1,15 +1,10 @@
 import * as React from "react";
-import { styled } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import Container from "@mui/material/Container";
 import Typography from "../components/Typography";
-import ButtonBase from "@mui/material/ButtonBase";
 import Markdown from "../components/Markdown";
 import { useEffect, useState } from "react";
-import { Parallax } from "react-scroll-parallax";
-import { isMobile } from 'react-device-detect';
-import Image from 'mui-image'
 
 const number = {
   fontSize: 24,
@@ -20,8 +15,6 @@ const number = {
 
 function ProductHowItWorks() {
   const [markdown, setMarkdown] = useState("");
-  const [handWidth, setHandWidth] = useState(window.innerWidth * 0.85);
-  const [handPercentageOffset] = useState(0.9);
 
   // https://github.com/webpack/webpack/issues/6680
   useEffect(() => {
@@ -30,10 +23,6 @@ function ProductHowItWorks() {
       .then((response) => response.text())
       .then((responseText) => setMarkdown(responseText));
 
-    function handleResize() {
-      setHandWidth(window.innerWidth * 0.85);
-    }
-    window.addEventListener('resize', handleResize)
   });
 
   return (

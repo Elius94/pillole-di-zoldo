@@ -3,13 +3,12 @@ import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import Container from "@mui/material/Container";
 import Typography from "../components/Typography";
-import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet'
+import { MapContainer, TileLayer } from 'react-leaflet'
 import icon from 'leaflet/dist/images/marker-icon.png';
 import iconShadow from 'leaflet/dist/images/marker-shadow.png';
 import L from 'leaflet';
 import { SxProps, Theme } from "@mui/material/styles";
 import theme from "../theme";
-import Tooltip from "@mui/material/Tooltip";
 let DefaultIcon = L.icon({
   iconUrl: icon,
   shadowUrl: iconShadow

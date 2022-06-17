@@ -4,7 +4,7 @@ import Typography from "../components/Typography";
 import ProductHeroLayout from "./ProductHeroLayout";
 import { Link as RouterLink } from "react-router-dom";
 
-const backgroundImage = "./DSC08782.jpg";
+const backgroundImage = "./DSC08782.webp";
 
 export default function ProductHero() {
   return (

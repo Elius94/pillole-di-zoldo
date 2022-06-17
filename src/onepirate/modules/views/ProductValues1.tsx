@@ -75,22 +75,22 @@ const DescriptionBox = styled(Box)(({ theme }) => ({
 
 const images = [
   {
-    url: "./IMG_4029.JPG",
+    url: "./IMG_4029.webp",
     title: "Passione",
     width: "50%",
   },
   {
-    url: "./IMG_4030.JPG",
+    url: "./IMG_4030.webp",
     title: "Creatività",
     width: "50%",
   },
   {
-    url: "./IMG_4372.JPG",
+    url: "./IMG_4372.webp",
     title: "Incontro",
     width: "50%",
   },
   {
-    url: "./IMG_4034.JPG",
+    url: "./IMG_4034.webp",
     title: "Ambiente",
     width: "50%",
   }

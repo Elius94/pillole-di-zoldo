@@ -77,19 +77,19 @@ const DescriptionBox = styled(Box)(({ theme }) => ({
 
 const images = [
   {
-    url: "./IMG_4712.JPG",
+    url: "./IMG_4712.webp",
     title: "Artisti del Silenzio",
     article: "artisti_del_silenzio",
     width: "33.33%",
   },
   {
-    url: "./IMG_0166.JPG",
+    url: "./IMG_0166.webp",
     title: "PdZ incontra Matteo Righetto",
     article: "pdz_incontra_matteo_righetto",
     width: "33.33%",
   },
   {
-    url: "./IMG_4713.JPG",
+    url: "./IMG_4713.webp",
     title: "Rifioriture Fest",
     article: "rifioriture_fest",
     width: "33.33%",

@@ -37,7 +37,7 @@ Per il Teatro Stabile del Veneto ha scritto Da qui alla Luna, portato in scena d
 Nel 2019 ha ricevuto il Premio Internazionale Dolomiti UNESCO.
 
 <p align="center">
-    <img width="50%" src="../videorighetto.webp" onclick="https://www.youtube.com/watch?v=kWWyrJryFl8&t=18s" alt="Video"/>
+    <img width="50%" src="../videorighetto.webp" onclick="www.youtube.com/watch?v=kWWyrJryFl8&t=18s" alt="Video"/>
 </p>
 
 

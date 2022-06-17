@@ -79,19 +79,19 @@ const images = [
   {
     url: "./IMG_4712.webp",
     title: "Artisti del Silenzio",
-    article: "artisti_del_silenzio",
+    article: "artisti-del-silenzio",
     width: "33.33%",
   },
   {
     url: "./IMG_0166.webp",
     title: "PdZ incontra Matteo Righetto",
-    article: "pdz_incontra_matteo_righetto",
+    article: "pdz-incontra-matteo-righetto",
     width: "33.33%",
   },
   {
     url: "./IMG_4713.webp",
     title: "Rifioriture Fest",
-    article: "rifioriture_fest",
+    article: "rifioriture-fest",
     width: "33.33%",
   }
 ];

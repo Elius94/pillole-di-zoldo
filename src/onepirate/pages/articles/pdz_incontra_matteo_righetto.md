@@ -36,9 +36,7 @@ La sua trilogia è diventata un caso letterario internazionale con traduzioni in
 Per il Teatro Stabile del Veneto ha scritto Da qui alla Luna, portato in scena da Andrea Pennacchi e L'anno dei sette inverni, finalista in diversi festival cinematografici internazionali dedicati alla montagna.
 Nel 2019 ha ricevuto il Premio Internazionale Dolomiti UNESCO.
 
-<p align="center">
-    <img width="50%" src="../videorighetto.webp" onclick="www.youtube.com/watch?v=kWWyrJryFl8&t=18s" alt="Video"/>
-</p>
+[<img width="50%" src="../videorighetto.webp" alt="Video"/>](www.youtube.com/watch?v=kWWyrJryFl8&t=18s)
 
 
 

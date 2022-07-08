@@ -40,7 +40,7 @@ export default function ProductHeroLayout(
           }}
         >
           <img
-            src="/productHeroWonder.png"
+            src="/pdz.png"
             alt="wonder"
             width="147"
             height="80"

@@ -12,6 +12,7 @@ function Articles() {
                 <Route path={`privacy`} element={<Privacy />} />
                 <Route path={`artisti-del-silenzio`} element={<Article article={"artisti_del_silenzio"} />} />
                 <Route path={`pdz-incontra-matteo-righetto`} element={<Article article={"pdz_incontra_matteo_righetto"} />} />
+                <Route path={`rifioriture-fest`} element={<Article article={"rifioriture_fest"} />} />
                 <Route path={`*`} element={<NotFound404 />} />
             </Routes>
         </React.Fragment>

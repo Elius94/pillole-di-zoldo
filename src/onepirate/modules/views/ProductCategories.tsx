@@ -89,7 +89,7 @@ const images = [
     width: "33.33%",
   },
   {
-    url: "./IMG_4713.webp",
+    url: "./DJI_0134_Moment-min.jpg",
     title: "Rifioriture Fest",
     article: "rifioriture-fest",
     width: "33.33%",

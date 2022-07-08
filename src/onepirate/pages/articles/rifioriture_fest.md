@@ -1,5 +1,5 @@
 # RIFIORITURE FEST
-### Festival dell’abbandono, della rinascita e delle emozioni
+> Festival dell’abbandono, della rinascita e delle emozioni
 
 Rifioriture Fest è vivere una giornata intera a Colcerver, un piccolo borgo della Val di Zoldo. E’ condividere
 emozioni, curiosare tra i vicoli, parlare con i pochi abitanti. E’ entrare in contatto con l’abbandono della
@@ -9,14 +9,16 @@ della giornata, sia nel paese che nei prati e boschi attorno ad esso, ogni ospit
 raccontare a suo modo un tema: spopolamento e rifioritura dei paesi di montagna, ricordi e tradizioni del
 passato, ambiente.
 
-## LOCATION: Colcerver
+### LOCATION: Colcerver
+
+<meta src="../../DJI_0108-min.JPG" height="400px" />
 
 Colcerver non è solo una manciata di case immerse nel bosco della Val di Zoldo, è molto di più.
 Passeggiando tra le sue vie è impossibile non percepire nell’aria la magia rilassata di un posto speciale.
 Potrebbe essere un museo a cielo aperto, una comune di artisti, un libro stracolmo di storie incredibili, un
 luogo appartenente sia al passato che al futuro.
 
-## ACCESSIBILITA’: 
+### ACCESSIBILITÀ: 
 
 Il paese è raggiungibile a piedi partendo dalla frazione Pralongo, attraverso una strada
 asfaltata (circa 45 min a piedi) o tramite un sentiero molto ben tenuto (circa 30 min), entrambi in bellissimi
@@ -26,7 +28,9 @@ ritagliarsi il proprio tempo con il proprio personalissimo passo, a vivere i sen
 Per le persone con mobilità ridotta è organizzata una navetta ad orario definito (andata ore 10, 14.30;
 ritorno ore 18) direttamente dal parcheggio di Pralongo.
 
-## AMBIENTE: 
+### AMBIENTE: 
+
+<img src="../DJI_0228-min.JPG" width="100%">
 
 Uno dei valori più importanti dell’evento è la riduzione del suo impatto ambientale. La scelta di
 rendere l’evento raggiungibile solo a piedi consente di evitare emissioni di gas serra e rumori derivanti dal
@@ -35,13 +39,13 @@ per la raccolta differenziata per eventuali rifiuti prodotti.
 Inoltre, la freschissima (e gratuita!) acqua di montagna è disponibile nelle numerose fontane di Colcerver.
 Niente plastica!
 
-## PATROCINI:
+### PATROCINI:
 
 - Consorzio Turismo Val di Zoldo
 - Comune Val di Zoldo
 - Fondazione Angelini
 
-## SPONSOR:
+### SPONSOR:
 
 - Vivere una giornata intera in un paesino di montagna
 - Incontri tematici: abbandono/spopolamento della montagna, ambiente, rifioritura dei piccoli borghi di montagna, esperimenti creativi nella natura, ricordi e tradizioni del passato, condivisione di emozioni, bussare e chiacchierare con gli abitanti, curiosità

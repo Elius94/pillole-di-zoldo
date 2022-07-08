@@ -40,10 +40,9 @@ export default function ProductHeroLayout(
           }}
         >
           <img
-            src="/pdz.png"
+            src="/pdz_logo.png"
             alt="wonder"
             width="147"
-            height="80"
           />
           {children}
           <Box

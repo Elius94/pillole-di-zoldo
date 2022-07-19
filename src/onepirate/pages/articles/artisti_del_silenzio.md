@@ -13,3 +13,9 @@ Il concetto stesso di silenzio attinge a piene mani alla montagna per mostrarsi 
 
 I fotografi si nutrono di silenzio, sono sfuggenti. Si appostano nel silenzio e danno vita ad arte silenziosa. Ma che può essere tanto forte da fare rumore. Nel silenzio della montagna i pochi suoni risuonano più forti e nitidi che altrove. Come i loro scatti.
 
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=aSusVOi96zE&t=917s">
+        <img width="50%" src="../video_artisti.jpg" alt="Artisti del Silenzio"/>
+    </a>
+</p>
+

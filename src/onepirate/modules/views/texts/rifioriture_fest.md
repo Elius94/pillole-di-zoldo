@@ -1,1 +1,1 @@
-Coming soon!
+> Rifioriture Fest è vivere una giornata intera a Colcerver, un piccolo borgo della Val di Zoldo. E’ condividere emozioni, curiosare tra i vicoli, parlare con i pochi abitanti. E’ entrare in contatto con l’abbandono della montagna e sognare insieme una sua rinascita.

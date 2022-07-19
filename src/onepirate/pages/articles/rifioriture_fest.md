@@ -1,4 +1,5 @@
-# RIFIORITURE FEST
+<img src="../RiFioriture_Logo.png" width="100%" alt="Rifioriture Fest">
+
 > Festival dell’abbandono, della rinascita e delle emozioni
 
 Rifioriture Fest è vivere una giornata intera a Colcerver, un piccolo borgo della Val di Zoldo. E’ condividere
@@ -39,19 +40,6 @@ per la raccolta differenziata per eventuali rifiuti prodotti.
 Inoltre, la freschissima (e gratuita!) acqua di montagna è disponibile nelle numerose fontane di Colcerver.
 Niente plastica!
 
-### PATROCINI:
-
-- Consorzio Turismo Val di Zoldo
-- Comune Val di Zoldo
-- Fondazione Angelini
-
-### SPONSOR:
-
-- Vivere una giornata intera in un paesino di montagna
-- Incontri tematici: abbandono/spopolamento della montagna, ambiente, rifioritura dei piccoli borghi di montagna, esperimenti creativi nella natura, ricordi e tradizioni del passato, condivisione di emozioni, bussare e chiacchierare con gli abitanti, curiosità
-- Entrare in contatto con i temi sopra citati attraverso vari sensi
-- 10 consigli pratici per godersi la giornata
-
 ## LINEUP:
 
 - BOSCO con Merino Mattiuzzi
@@ -63,3 +51,10 @@ Niente plastica!
 - La propria strada con Patogiramondo
   Racconti di partenze, scoperte, ritorni.
   Da Zoldo a Santiago, trovando se stessi. Un “vagamondo” che dopo mille avventure è tornato a casa.
+- ALTRI OSPITI SARANNO ANNUNCIATI IN SEGUITO!
+
+### PATROCINI:
+
+<a href="https://www.valdizoldo.net/it/home"><img src="../vdz.png" width="30%" alt="Consorzio Turismo Val di Zoldo"></a>
+<img src="../cvdz.png" width="30%" alt="Comune Val di Zoldo">
+<a href="https://www.angelini-fondazione.it/"><img src="../logo_angelini.png" width="30%" alt="Fondazione Angelini" style="padding: 50px; padding-left: 100px; padding-right: 100px;"></a>

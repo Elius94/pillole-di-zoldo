@@ -1,4 +1,4 @@
-<img src="../RiFioriture_Logo.png" width="100%" alt="Rifioriture Fest">
+<img src="../RiFioriture_Logo_completo.png" width="100%" alt="Rifioriture Fest">
 
 > Festival dell’abbandono, della rinascita e delle emozioni
 
@@ -12,31 +12,26 @@ passato, ambiente.
 
 ### LOCATION: Colcerver
 
-<meta src="../../DJI_0108-min.JPG" height="400px" />
+<meta src="../../DJI_0108-min.JPG" height="450px" width="100%" />
 
 Colcerver non è solo una manciata di case immerse nel bosco della Val di Zoldo, è molto di più.
 Passeggiando tra le sue vie è impossibile non percepire nell’aria la magia rilassata di un posto speciale.
-Potrebbe essere un museo a cielo aperto, una comune di artisti, un libro stracolmo di storie incredibili, un
-luogo appartenente sia al passato che al futuro.
+Potrebbe essere un museo a cielo aperto, una comune di artisti, un libro stracolmo di storie incredibili, un luogo appartenente sia al passato che al futuro.
 
 ### ACCESSIBILITÀ: 
 
-Il paese è raggiungibile a piedi partendo dalla frazione Pralongo, attraverso una strada
-asfaltata (circa 45 min a piedi) o tramite un sentiero molto ben tenuto (circa 30 min), entrambi in bellissimi
-boschi di latifoglie. Clicca qui per scaricare una mappa in formato pdf.
-La scelta di rendere l’evento accessibile solo camminando è un invito a immergersi in un bosco bellissimo, a
-ritagliarsi il proprio tempo con il proprio personalissimo passo, a vivere i sentieri della Val di Zoldo.
-Per le persone con mobilità ridotta è organizzata una navetta ad orario definito (andata ore 10, 14.30;
-ritorno ore 18) direttamente dal parcheggio di Pralongo.
+il paese è raggiungibile a piedi partendo dalla frazione Pralongo, attraverso una strada
+asfaltata (circa 45 min a piedi) o tramite un sentiero molto ben tenuto (circa 30 min), entrambi in bellissimi boschi di latifoglie. La strada comunale asfaltata è percorribile anche dalle auto, ma l’invito è quello di salire camminando, per
+immergersi in un bosco bellissimo, ritagliarsi il proprio tempo con il proprio personalissimo passo, vivendo i sentieri della Val di Zoldo.
 
 ### AMBIENTE: 
 
 <img src="../DJI_0228-min.JPG" width="100%">
 
-Uno dei valori più importanti dell’evento è la riduzione del suo impatto ambientale. La scelta di
-rendere l’evento raggiungibile solo a piedi consente di evitare emissioni di gas serra e rumori derivanti dal
-passaggio di macchine in mezzo al bosco, che andrebbero a disturbarne la fauna; sono presenti contenitori
-per la raccolta differenziata per eventuali rifiuti prodotti.
+Uno dei valori più importanti del festival è la riduzione del suo impatto ambientale. La scelta di
+raggiungere l’evento a piedi consente di evitare emissioni di gas serra e rumori derivanti dal passaggio di
+macchine in mezzo al bosco, che andrebbero a disturbarne la fauna; sono presenti contenitori per la
+raccolta differenziata per eventuali rifiuti prodotti.
 Inoltre, la freschissima (e gratuita!) acqua di montagna è disponibile nelle numerose fontane di Colcerver.
 Niente plastica!
 

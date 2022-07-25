@@ -20,7 +20,7 @@ export default function Markdown(props: any) {
     a: ({ node, ...props }: any) => <Link {...props}>{props.children}</Link>,
     span: ({ node, ...props }: any) => <Typography paragraph={true} variant="h5" {...props}>{props.children}</Typography>,
     li: ({ node, ...props }: any) => <li {...props}>{props.children}</li>,
-    meta:  ({ node, ...props }: any) => <ReactPhotoSphereViewer ref={photoSphereRef} {...props}>{props.children}</ReactPhotoSphereViewer>,
+    meta:  ({ node, ...props }: any) => <ReactPhotoSphereViewer littlePlanet={true} ref={photoSphereRef} {...props}>{props.children}</ReactPhotoSphereViewer>,
   };
   
   return <ReactMarkdown components={components} children={props.children} remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} />;

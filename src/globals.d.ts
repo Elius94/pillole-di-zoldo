@@ -3,4 +3,3 @@ declare module "*.md";
 declare module 'react-iubenda-policy';
 declare module 'mui-image';
 declare module 'lodash';
-declare module 'react-photo-sphere-viewer';

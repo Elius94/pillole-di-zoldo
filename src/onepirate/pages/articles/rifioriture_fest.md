@@ -37,19 +37,31 @@ Niente plastica!
 
 ## LINEUP:
 
-- BOSCO con Merino Mattiuzzi
-  Scoprendo il bosco con il suo custode.
+- L’equilibrio delle api con Renato Panciera (h. 10.30)
+  > La trascurata importanza delle api
+  Passeggiando attorno a Colcerver tra piante e fiori Renato e Matteo ci porteranno nel loro quotidiano, per ,mostrarci l’incredibile operato delle api e la relazione fondamentale che c’è tra noi, loro e l’ambiente.
+  _esplorazione_
+- BOSCO con Merino Mattiuzzi (h. 11.30)
+  > Scoprendo il bosco con il suo custode
   “Se vai nel bosco e non vuoi vedere, ti sembrerà tutto uguale, monotono. Se invece ci entrarai con curiosità, ti sembrerà come un museo”
-- Les Fleurs de Mars con Sergio Tanara
-  Fiori su tela, da Marte a Colcerver.
-  In un futuro in cui sulla Terra non ci sono più fiori uno scienziato scopre i Fiori di Marte, li rappresenta in dodici tele, trapiantate a Colcerver.
-- La propria strada con Patogiramondo
-  Racconti di partenze, scoperte, ritorni.
+  _esplorazione_
+- Les Fleurs de Mars con Sergio Tanara (h. 14.30)
+  > Fiori su tela, da Marte a Colcerver
+  In un futuro in cui sulla Terra non ci sono più fiori uno scienziato scopre i Fiori di Marte, li rappresenta in dodici tele, trapiantate a Colcerver
+  _arte_
+- La propria strada con Patogiramondo (h. 15.30)
+  > Racconti di partenze, scoperte, ritorni
   Da Zoldo a Santiago, trovando se stessi. Un “vagamondo” che dopo mille avventure è tornato a casa.
-- ALTRI OSPITI SARANNO ANNUNCIATI IN SEGUITO!
+  _Dialogo_
+- 600m. Parole chiave della trasformazione con Anna Angelini e Iolanda Da Deppo (h. 17.00)
+  Un dialogo aperto, attraverso termini chiave e concetti che raccontano la trasformazione passata, presente e futura della montagna.
+  _Dialogo_
+- Nature Prevails con Morning Haze (h. 18.15)
+  La natura si riprende i propri spazi in seguito all’abbandono della civiltà umana. Un’esplorazione perimentale di come un concetto possa prendere forma attraverso due fonti artistiche di ispirazioni differenti, in questo caso fotografia e musica, che poi si intersecano tra loro.
+  _Anteprima progetto_
 
 ### PATROCINI:
 
 <a href="https://www.valdizoldo.net/it/home"><img src="../vdz.png" width="30%" alt="Consorzio Turismo Val di Zoldo"></a>
 <img src="../cvdz.png" width="30%" alt="Comune Val di Zoldo">
-<a href="https://www.angelini-fondazione.it/"><img src="../logo_angelini.png" width="30%" alt="Fondazione Angelini" style="padding: 50px; padding-left: 100px; padding-right: 100px;"></a>
+<a href="https://www.angelini-fondazione.it/"><img src="../logo_angelini.png" width="30%" alt="Fondazione Angelini"></a>
